@@ -9,9 +9,9 @@
 
 ---
 
-<!--- <div align="center"> <img src="https://github.com/himanshu9222/himanshu9222/blob/main/dist/github-metrics.svg" alt="metrics" /></div> -->
+<!--- <div align="center"> <img src="https://github.com/himanshu9222/himanshu9222/blob/main/dist/github-metrics.svg" alt="metrics" /></div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu9222&show_icons=true&theme=gotham" alt="stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu9222&show_icons=true&theme=gotham" alt="stats" /></p> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu9222&langs_count=6&layout=compact&theme=gotham" alt="languages" /></p>
 
